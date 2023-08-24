@@ -10,7 +10,7 @@ Installation/Setup
 4.	Browse the PHPMyAdmin in a browser. i.e. http://localhost/phpmyadmin
 5.	Create a new database naming mvogms_db.
 6.	Import the provided SQL file. The file is known as mvogms_db.sql located inside the database folder.
-7.	Browse the Multi-Vendor Online Groceries Management System in a browser. i.e. http://localhost/mvogms/.
+7.	Browse the Construction Management System in a browser. i.e. http://localhost/construction-management-system/.
 
 Default Admin Access
 Username: admin
